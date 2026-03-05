@@ -1,21 +1,21 @@
-🚦 Excel_Dashboard_for_Road_Accident_Insights
+## 🚦 Excel_Dashboard_for_Road_Accident_Insights
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project presents an **interactive Road Accident Analysis Dashboard built in Microsoft Excel**. The goal of the project is to analyze road accident data and transform raw datasets into meaningful insights using data cleaning, transformation, and visualization techniques.
 
 The dashboard helps users understand accident trends, casualty statistics, vehicle involvement, and road conditions through dynamic charts and KPIs. It is designed to support **data-driven decision making for improving road safety and traffic management**.
 This project demonstrates practical **data analytics skills using Excel**, including dashboard design and data visualization.
 
-🎯 Objectives
+## 🎯 Objectives
 
 * Analyze road accident data and identify key patterns.
 * Visualize accident statistics through an interactive dashboard.
 * Provide insights about casualties, vehicle types, and road conditions.
 * Help stakeholders understand accident trends for better safety planning.
 
-📊 Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 The dashboard focuses on several important metrics:
 
@@ -29,7 +29,7 @@ The dashboard focuses on several important metrics:
 
 These KPIs provide insights into patterns and risk factors associated with road accidents.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 * **Microsoft Excel**
 * Pivot Tables
@@ -38,7 +38,7 @@ These KPIs provide insights into patterns and risk factors associated with road 
 * Data Cleaning & Transformation
 * Data Visualization
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset contains information related to road accidents including:
 
@@ -61,7 +61,7 @@ The dataset is processed and analyzed using Excel features to create meaningful 
 * Comparative analysis of accident trends
   
 
-🎓 Skills Demonstrated
+## 🎓 Skills Demonstrated
 
 * Data Cleaning
 * Data Analysis
@@ -69,7 +69,7 @@ The dataset is processed and analyzed using Excel features to create meaningful 
 * Dashboard Design
 * Excel Analytics
 
-🚀 Conclusion
+## 🚀 Conclusion
 
 This project shows how **Excel can be used as a powerful data analytics tool** to transform raw accident data into actionable insights. The dashboard allows users to quickly explore trends and understand factors contributing to road accidents, supporting better road safety planning.
 
