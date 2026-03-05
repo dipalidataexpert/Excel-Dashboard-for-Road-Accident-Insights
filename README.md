@@ -1,4 +1,4 @@
-#🚦 Excel_Dashboard_for_Road_Accident_Insights
+🚦 Excel_Dashboard_for_Road_Accident_Insights
 
 
 📌 Project Overview
@@ -27,9 +27,9 @@ The dashboard focuses on several important metrics:
 * **Distribution of Casualties by Road Surface**
 * **Casualties by Area (Urban vs Rural) and Time (Day/Night)**
 
-These KPIs provide insights into patterns and risk factors associated with road accidents. ([GitHub][1])
+These KPIs provide insights into patterns and risk factors associated with road accidents.
 
-## 🛠 Tools & Technologies Used
+🛠 Tools & Technologies Used
 
 * **Microsoft Excel**
 * Pivot Tables
