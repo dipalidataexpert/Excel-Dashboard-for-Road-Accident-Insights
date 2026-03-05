@@ -5,8 +5,7 @@
 
 This project presents an **interactive Road Accident Analysis Dashboard built in Microsoft Excel**. The goal of the project is to analyze road accident data and transform raw datasets into meaningful insights using data cleaning, transformation, and visualization techniques.
 
-The dashboard helps users understand accident trends, casualty statistics, vehicle involvement, and road conditions through dynamic charts and KPIs. It is designed to support **data-driven decision making for improving road safety and traffic management**. ([GitHub][1])
-
+The dashboard helps users understand accident trends, casualty statistics, vehicle involvement, and road conditions through dynamic charts and KPIs. It is designed to support **data-driven decision making for improving road safety and traffic management**.
 This project demonstrates practical **data analytics skills using Excel**, including dashboard design and data visualization.
 
 🎯 Objectives
